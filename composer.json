@@ -10,7 +10,6 @@
             "email": "manikanta.kothapalli@raybiztech.com"
         }
     ],
-    "minimum-stability": "stable",
     "repositories":[
         {
             "type": "git",
